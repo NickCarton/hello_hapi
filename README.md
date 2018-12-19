@@ -26,7 +26,7 @@ This will run tests and a linter using the default linting settings.
 
 Run tests and code coverage with `npm run coverage`.
 
-## License
+## License1
 
 MIT
 
