@@ -11,7 +11,7 @@ npm installdasdasdasd
 
 Run with 
 
-`npm start`asdasd
+`npm start`asdasdasdasd
 
 to fire the server. VIsit <http://localhost:3000/hello/Homer> to see the result
 
