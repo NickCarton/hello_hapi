@@ -1,13 +1,26 @@
 kind: pipeline
-name: default
+name: build-hello-hapi
+
+platform:
+  os: linux
+  arch: arm64
+
 workspace:
   base: /tmp
   path: "."
+
 steps:
+- name: notify-slack-build-started
+  image: plugins/slack
+  settings:
+    webhook: https://hooks.slack.com/services/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
+    channel: innovation-team
+    
 - name: build
   image: node:latest
   commands:
   - npm install
+  
 - name: test
   image: node:8.11.4-alpinet
   commands:
