@@ -1,3 +1,5 @@
+[![Build Status](https://drone.infotracklabs.com/api/badges/NickCarton/hello_hapi/status.svg)](https://drone.infotracklabs.com/NickCarton/hello_hapi)
+
 # Hello Tasdasdasdasdasd
 An example [Hapi.js](https://hapijs.com/) app with https://github.com/hapijs/lab tests. Solution to Exercise 1 from [Exercises for Programmers](http://pragprog.com/titles/bhwb), copyright 2015 The Pragmatic Programmers.
 
