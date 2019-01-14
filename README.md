@@ -14,7 +14,7 @@ Run with asd
 1
 `npm start`asdasdasdasdsdfasdasd
 
-to fire the server. VIsit <http://localhost:3000/hasdasdello/Homer> to see the result
+to fire the server. VIsit <http://localhost:3000/hasdasdello/asdHomer> to see the result
 
 Replace `homer` with your name to echo the response. Use `Homer%20Simpson` to test that URL decoding for spaces works
 
