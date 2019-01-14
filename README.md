@@ -10,7 +10,7 @@ Install dependencies:
 ```
 npm installdasdasdasdzsdasdasdasd
 
-Run with 
+Run with asd
 1
 `npm start`asdasdasdasd
 
