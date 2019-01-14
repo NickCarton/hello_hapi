@@ -20,7 +20,7 @@ Replace `homer` with your name to echo the response. Use `Homer%20Simpson` to te
 
 ## Running tests
 
-Run tests with `npm test`
+Run tests with `npm test`asdasd
 a
 This will run tests and a linter using the default linting settings.asdasd
 
