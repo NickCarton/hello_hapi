@@ -9,7 +9,7 @@ Install dependencies:8i
 
 ```
 npm installdasdasdasdzsdasdasdasda
-a
+adf
 Run with asd
 1
 `npm start`asdasdasdasdsdfasdasd
