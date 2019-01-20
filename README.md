@@ -8,7 +8,7 @@ asdadasd
 Install dependencies:
 
 ```
-npm installdasdasdasdzsdasdasdasd
+npm installdasdasdasdzsdasdasdasda
 a
 Run with asd
 1
