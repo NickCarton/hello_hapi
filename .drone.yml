@@ -3,7 +3,7 @@ name: build-hello-hapi
 
 platform:
   os: linux
-  arch: arm64
+  arch: amd64
 
 workspace:
   base: /tmp
