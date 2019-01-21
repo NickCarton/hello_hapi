@@ -18,7 +18,7 @@ to fire the server. VIsit <http://localhost:3000/hasdasdello/asdHomer> to see th
 
 Replace `homer` with your name to echo the response. Use `Homer%20Simpson` to test that URL decoding for spaces works
 
-## Running tests
+## Running testssd
 
 Run tests with `npm test`asdasd
 a
