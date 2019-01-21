@@ -5,7 +5,7 @@ An example [Hapi.js](https://hapijs.com/) app with https://github.com/hapijs/lab
 
 ## Usagesdfsdfsds
 asdadasd2
-Install dependencies:8i
+Install dependencies:8ia
 
 ```
 npm installdasdasdasdzsdasdasdasda
