@@ -8,7 +8,7 @@ asdadasd2
 Install dependencies:8ia
 
 ```
-npm installdasdasdasdzsdasdasdasda1
+npm installdasdasdasdzsdasdasdasda1asd
 adf
 Run with asd
 1
