@@ -24,7 +24,7 @@ Run tests with `npm test`asdasd
 a
 This will run tests and a linter using the default linting settings.asdasd
 qqqqqqqqqqqt
-Run tests and code coverage with `npm run coverage`.
+Run tests and code coverage with `npm run coverage`.a
 
 ## License1
 
